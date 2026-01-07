@@ -1,0 +1,7 @@
+{
+  "name": "Copy_05 of GeoAttend - Enterprise Attendance System",
+  "description": "A comprehensive employee attendance management system featuring geofencing, location-aware punch-in/out, leave management, and automated monthly reporting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
