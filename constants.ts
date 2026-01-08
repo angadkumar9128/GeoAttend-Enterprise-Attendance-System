@@ -174,8 +174,8 @@ export const INITIAL_STATE: AppState = {
   leaves: [],
 
   config: {
-    latitude: 40.7128, // Default to NYC for demo
-    longitude: -74.0060,
+    latitude: 12.8961865, // Default to NYC for demo
+    longitude: 77.5755428,
     radius: 500 // meters
   },
 
